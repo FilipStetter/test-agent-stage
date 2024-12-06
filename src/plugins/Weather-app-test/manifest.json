@@ -1,5 +1,5 @@
 {
-    "name": "weather-stack-api-integration",
+    "name": "weather-stack-api-test",
     "version": "1.0.0",
     "description": "Weather Stack API Integration",
     "type": "integration",

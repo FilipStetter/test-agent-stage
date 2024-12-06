@@ -1,5 +1,5 @@
 {
-    "name": "openai-chatbot",
+    "name": "openai-chatbot-test",
     "version": "1.0.0",
     "description": "OpenAI Chatbot Plugin",
     "type": "integration"
